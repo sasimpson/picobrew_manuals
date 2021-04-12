@@ -1,4 +1,9 @@
 # picobrew_manuals
 A quick cheat sheet for operating the PicoBrew Pro.
 
-Please see the [wiki](https://github.com/sasimpson/picobrew_manuals/wiki) for the instructions
+## Pro/S
+
+* [Brew with PicoFree](/pro_s/brew_picofree.md)
+* [Deep Clean](/pro_s/deep_clean.md)
+
+[Glossary](/pro_s/glossary.md)
