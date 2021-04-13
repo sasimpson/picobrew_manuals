@@ -20,9 +20,9 @@
 ## Steps
 
 ### Brewing
-takes roughly 2-3 hours depending on recipe
+_takes roughly 2-3 hours depending on recipe_
 
-*caution* make sure you remove the blue inline filter.
+**caution** make sure you remove the blue inline filter.
 
 1. Fit keg with keg cozy
 1. Fill keg with 1 gal plus 6 cups of water (distilled or RO)
@@ -34,8 +34,7 @@ takes roughly 2-3 hours depending on recipe
 1. Select PicoPak -> click -> select brew you want -> Start Brewing
 
 ### After Brewing
-
-takes roughly 10 minutes
+_takes roughly 10 minutes_
 
 1. Disconnect ball-lock connectors
 1. Wipe off keg seal and use red stopper to plug hole
@@ -46,3 +45,5 @@ takes roughly 10 minutes
 1. Rinse step filter and lid, fill with 1 inch of clean water, replace.
 1. Attach keg wands, gray wand in waste container, black wand in reservoir
 1. Run rinse cycle
+
+Pitch yeast once the temperature is in range.  Add airlock or PicoFerm to keg for fermentation.
