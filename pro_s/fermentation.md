@@ -15,7 +15,10 @@
 * Red air release valve
 
 ### PicoFerm Fermentation
-
+* Ball Lock Keg
+* Keg Lid
+* Red air release valve
+* PicoFerm
 
 ## Steps - Regular Fermentation
 _fermentation takes 1-4 weeks depending on recipe_
@@ -53,4 +56,11 @@ Keg temp (F) | Days to Fast Ferm
 70° - 74° | 10 - 12
 65° - 69° | 12 - 14
 
- 
+## Steps - PicoFerm
+**note** _your PicoFerm should already be setup_
+
+* remove keg seal and add yeast
+* remove gray air release from keg lid, replace with red low pressure
+* install keg lid on keg
+* install PicoFerm on keg on the IN side
+* press on button to activate PicoFerm
