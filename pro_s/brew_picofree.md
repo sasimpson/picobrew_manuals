@@ -29,7 +29,7 @@ _takes roughly 2-3 hours depending on recipe_
 1. Connect keg black connector to keg out, gray connector to keg in.
 1. Install keg seal on keg **w/o red plug**
 1. Fill reservoir with 1 gallon of water (distilled or RO)
-1. Install hop pack.
+1. Install hop pack, bin #1 is on the right, with the large hole in the side.
 1. Install grain bin. 
 1. Select PicoPak -> click -> select brew you want -> Start Brewing
 
